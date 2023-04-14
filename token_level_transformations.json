@@ -1,0 +1,269 @@
+[
+  {
+    "tag ID": 1,
+    "core transformation": "DELETE",
+    "transformation suffix": "∅",
+    "tag": "DELETE",
+    "example": "Qeni {ai -> ∅} po leh."
+  },
+  {
+    "tag ID": 2,
+    "core transformation": "CASE",
+    "transformation suffix": "CAPITAL",
+    "tag": "CASE_CAPITAL",
+    "example": "Planeti ynë është {toka -> Toka}"
+  },
+  {
+    "tag ID": 3,
+    "core transformation": "CASE",
+    "transformation suffix": "LOWER",
+    "tag": "CASE_LOWER",
+    "example": "Ishte muaji {Shkurt -> shkurt} para pak kohësh."
+  },
+  {
+    "tag ID": 4,
+    "core transformation": "CASE",
+    "transformation suffix": "UPPER",
+    "tag": "CASE_UPPER",
+    "example": "Organizata {nasa -> NASA} kryeson në këtë drejtim."
+  },
+  {
+    "tag ID": 5,
+    "core transformation": "MERGE",
+    "transformation suffix": "HYPHEN",
+    "tag": "MERGE_HYPHEN",
+    "example": "Shikoni {njëri tjetrin -> njëri-tjetrin} pastaj."
+  },
+  {
+    "tag ID": 6,
+    "core transformation": "SPLIT",
+    "transformation suffix": "HYPHEN",
+    "tag": "SPLIT_HYPHEN",
+    "example": "Doli dhe versioni {vaj-peshku -> vaj peshku}.",
+    "comment": "Might also be corrected through non-contextual tool, do not focus much on this."
+  },
+  {
+    "tag ID": 7,
+    "core transformation": "APPEND",
+    "transformation suffix": "i",
+    "tag": "APPEND_i",
+    "example": "I pari ishte dyqani {∅ -> i} luleve."
+  },
+  {
+    "tag ID": 8,
+    "core transformation": "APPEND",
+    "transformation suffix": "e",
+    "tag": "APPEND_e",
+    "example": "Te lista e fituesve doli edhe ndërmarrja {∅ -> e} ndërtimit."
+  },
+  {
+    "tag ID": 9,
+    "core transformation": "APPEND",
+    "transformation suffix": "të",
+    "tag": "APPEND_të",
+    "example": "... shtëpive të fshatit ...",
+    "comment": ""
+  },
+  {
+    "tag ID": 10,
+    "core transformation": "APPEND",
+    "transformation suffix": "së",
+    "tag": "APPEND_së",
+    "example": "Padyshim që pasurisë {∅ -> së} shtetit i takon një e drejtë.",
+    "comment": ""
+  },
+  {
+    "tag ID": 11,
+    "core transformation": "REPLACE",
+    "transformation suffix": "i",
+    "tag": "REPLACE_i",
+    "example": "Ata i hapën probleme ndërmarrjes {të -> së} ndërtimit.",
+    "comment": ""
+  },
+  {
+    "tag ID": 12,
+    "core transformation": "REPLACE",
+    "transformation suffix": "e",
+    "tag": "REPLACE_e",
+    "example": "Ata i hapën probleme ndërmarrjes {të -> së} ndërtimit.",
+    "comment": ""
+  },
+  {
+    "tag ID": 13,
+    "core transformation": "REPLACE",
+    "transformation suffix": "të",
+    "tag": "REPLACE_të",
+    "example": "Ata i hapën probleme ndërmarrjes {të -> së} ndërtimit.",
+    "comment": ""
+  },
+  {
+    "tag ID": 14,
+    "core transformation": "REPLACE",
+    "transformation suffix": "së",
+    "tag": "REPLACE_së",
+    "example": "Ata i hapën probleme ndërmarrjes {të -> së} ndërtimit."
+  },
+  {
+    "tag ID": 15,
+    "core transformation": "REPLACE",
+    "transformation suffix": "ne",
+    "tag": "REPLACE_ne",
+    "example": "Ata janë merzitur me {neve -> ne}."
+  },
+  {
+    "tag ID": 16,
+    "core transformation": "REPLACE",
+    "transformation suffix": "nesh",
+    "tag": "REPLACE_nesh",
+    "example": "Disa prej {ne -> nesh} janë zgjedhur."
+  },
+  {
+    "tag ID": 17,
+    "core transformation": "REPLACE",
+    "transformation suffix": "tuaja",
+    "tag": "REPLACE_tuaja",
+    "example": "Duhet te konsideroni te gjitha projektet {e juaja -> tuaja}",
+    "comment": "Is it okay to replace 'e juaja' here?"
+  },
+  {
+    "tag ID": 18,
+    "core transformation": "REPLACE",
+    "transformation suffix": "ime",
+    "tag": "REPLACE_ime",
+    "example": "Nga shkolla {jeme -> ime} jemi disa veta."
+  },
+  {
+    "tag ID": 19,
+    "core transformation": "REPLACE",
+    "transformation suffix": "im",
+    "tag": "REPLACE_im",
+    "example": "Mendimi {jem -> im} është të luftojmë!"
+  },
+  {
+    "tag ID": 20,
+    "core transformation": "REPLACE",
+    "transformation suffix": "ynë",
+    "tag": "REPLACE_ynë",
+    "example": "Qyteti tonë {tonë -> ynë} ka shumë pyje."
+  },
+  {
+    "tag ID": 21,
+    "core transformation": "REPLACE",
+    "transformation suffix": "tonë",
+    "tag": "REPLACE_tonë",
+    "example": "Qytetit {ton -> tonë} i mungon lumturia."
+  },
+  {
+    "tag ID": 22,
+    "core transformation": "APPEND",
+    "transformation suffix": "-së",
+    "tag": "APPEND_-së",
+    "example": "BE{∅ -> -së} duhet t'i plotesoni kushtet."
+  },
+  {
+    "tag ID": 23,
+    "core transformation": "APPEND",
+    "transformation suffix": "-në",
+    "tag": "APPEND_-në",
+    "example": "BE{∅ -> -në} duhet ta konsideroni."
+  },
+  {
+    "tag ID": 24,
+    "core transformation": "APPEND",
+    "transformation suffix": "-ja",
+    "tag": "APPEND_-ja",
+    "example": "A është pse{∅ -> -ja} ndajfolje pyetëse?"
+  },
+  {
+    "tag ID": 25,
+    "core transformation": "APPEND",
+    "transformation suffix": "-shi",
+    "tag": "APPEND_-shi",
+    "example": "Iku dhe 400{∅ -> -shi}."
+  },
+  {
+    "tag ID": 26,
+    "core transformation": "APPEND",
+    "transformation suffix": "-të",
+    "tag": "APPEND_-të",
+    "example": "Shekulli i 20{∅ -> -të} ishte i mbushur me ngjarje interesante."
+  },
+  {
+    "tag ID": 27,
+    "core transformation": "APPEND",
+    "transformation suffix": "-ti",
+    "tag": "APPEND_-ti",
+    "example": "Ai doli i 74{∅ -> -ti} në konkurs."
+  },
+  {
+    "tag ID": 28,
+    "core transformation": "APPEND",
+    "transformation suffix": "-s",
+    "tag": "APPEND_-s",
+    "example": "Ngjarjet e 1944{∅ -> -s} ishin shumë të rëndësishme."
+  },
+  {
+    "tag ID": 29,
+    "core transformation": "APPEND",
+    "transformation suffix": "-it",
+    "tag": "APPEND_-it",
+    "example": "Shqetësimet e VAR{∅ -> -it} si koncept ishin të habitshme."
+  },
+  {
+    "tag ID": 30,
+    "core transformation": "REPLACE",
+    "transformation suffix": "tri",
+    "tag": "REPLACE_tri",
+    "example": "Madje {tri -> tre} vajza nga ato u kthyen."
+  },
+  {
+    "tag ID": 31,
+    "core transformation": "REPLACE",
+    "transformation suffix": "tre",
+    "tag": "REPLACE_tre",
+    "example": "Madje {tre -> tri} djem nga ata u kthyen."
+  },
+  {
+    "tag ID": 32,
+    "core transformation": "REPLACE",
+    "transformation suffix": "ngordh",
+    "tag": "REPLACE_ngordh",
+    "example": "Dihet që qeni {vdes -> ngordh}."
+  },
+  {
+    "tag ID": 33,
+    "core transformation": "REPLACE",
+    "transformation suffix": "vdes",
+    "tag": "REPLACE_vdes",
+    "example": "Gjithashtu dihet që bleta {ngordh -> vdes}."
+  },
+  {
+    "tag ID": 34,
+    "core transformation": "VERB_FORM",
+    "transformation suffix": "KTINJ_KTIINJ",
+    "tag": "VERB_FORM_KTINJ_KTIINJ",
+    "example": "Padyshim që ti {punoj -> punon} shumë."
+  },
+  {
+    "tag ID": 35,
+    "core transformation": "VERB_FORM",
+    "transformation suffix": "KTINJ_KTIIINJ",
+    "tag": "VERB_FORM_KTINJ_KTIIINJ",
+    "example": "Padyshim që ai {punoj -> punon} shumë."
+  },
+  {
+    "tag ID": 36,
+    "core transformation": "VERB_FORM",
+    "transformation suffix": "KTIIISH_KTISH",
+    "tag": "VERB_FORM_KTIIISH_KTISH",
+    "example": "Padyshim që ne {punojnë -> punojmë} shumë."
+  },
+  {
+    "tag ID": 37,
+    "core transformation": "APPEND",
+    "transformation suffix": "-eve",
+    "tag": "APPEND_-eve",
+    "example": "Duhet qe GEC{∅ -> -eve} t'i kushtosh mjaft vëmendje.",
+    "comment": "move somewhere near APPEND_-it or similar"
+  }
+]

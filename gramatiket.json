@@ -1,0 +1,1208 @@
+[
+  {
+    "sentence ID": 1,
+    "source sentence": "Padyshim që ne punojnë shumë.",
+    "target sentence": "Padyshim që ne punojmë shumë.",
+    "tag ID": 36
+  },
+  {
+    "sentence ID": 2,
+    "source sentence": "Sepse ai pikturoj shpesh.",
+    "target sentence": "Sepse ai pikturon shpesh.",
+    "tag ID": 35
+  },
+  {
+    "sentence ID": 3,
+    "source sentence": "Ajo zonë i përket rrjedhjes së poshtme Vjosës.",
+    "target sentence": "Ajo zonë i përket rrjedhjes së poshtme të Vjosës.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 4,
+    "source sentence": "Atje ndodhet dyqani luleve.",
+    "target sentence": "Atje ndodhet dyqani i luleve.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 5,
+    "source sentence": "Këto jane prodhime vjeshtës.",
+    "target sentence": "Këto janë prodhime të vjeshtës.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 6,
+    "source sentence": "Te lista e fituesve doli edhe ndërmarrja ndërtimit.",
+    "target sentence": "Te lista e fituesve doli edhe ndërmarrja e ndërtimit.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 7,
+    "source sentence": "Siper ishte shkruar norma e një punëtoreje uzinës.",
+    "target sentence": "Siper ishte shkruar norma e një punëtoreje të uzinës.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 8,
+    "source sentence": "Ai institucion ndohet te rrethi Tiranës.",
+    "target sentence": "Ai institucion ndodhet te rrethi i Tiranës.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 9,
+    "source sentence": "Institucioni lartë u shpreh mbi temën.",
+    "target sentence": "Institucioni i lartë u shpreh mbi temën.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 10,
+    "source sentence": "Trupi djalit ishte dëmtuar duke e bërë të pamundur identifikimin.",
+    "target sentence": "Trupi i djalit ishte dëmtuar duke e bërë të pamundur identifikimin.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 11,
+    "source sentence": "Dyqani luleve ështe në cep të rruges.",
+    "target sentence": "Dyqani i luleve ështe në cep të rruges.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 12,
+    "source sentence": "Rrethi Tiranës duhet parë me vëmendje.",
+    "target sentence": "Rrethi i Tiranës duhet parë me vëmendje.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 13,
+    "source sentence": "Pusi naftës në oborin e tij e kishte ndihmuar familjen për shumë vite.",
+    "target sentence": "Pusi i naftës në oborin e tij e kishte ndihmuar familjen për shumë vite.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 14,
+    "source sentence": "Fakulteti Historisë dhe i Filologjisë ndodhet në Tiranë.",
+    "target sentence": "Fakulteti i Historisë dhe i Filologjisë ndodhet në Tiranë.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 15,
+    "source sentence": "Lisi madh nuk ishte më.",
+    "target sentence": "Lisi i madh nuk ishte më.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 16,
+    "source sentence": "Mali lartë nuk ishte gjë për Mujin.",
+    "target sentence": "Mali i lartë nuk ishte gjë për Mujin.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 17,
+    "source sentence": "Kënga e re Dren Abazit quhet Mbreti Natës.",
+    "target sentence": "Kënga e re Dren Abazit quhet Mbreti i Natës.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 18,
+    "source sentence": "Kënga re Dren Abazit quhet Mbreti i Natës.",
+    "target sentence": "Kënga e re Dren Abazit quhet Mbreti i Natës.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 19,
+    "source sentence": "Kukulla vogël qëndronte në cep të tavolinës.",
+    "target sentence": "Kukulla e vogël qëndronte në cep të tavolinës.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 20,
+    "source sentence": "Vazoja vogël qëndronte në cep të tavolinës.",
+    "target sentence": "Vazoja e vogël qëndronte në cep të tavolinës.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 21,
+    "source sentence": "Djali vogël nuk dinte ku të shkonte.",
+    "target sentence": "Djali i vogël nuk dinte ku të shkonte.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 22,
+    "source sentence": "Lapsi kuq mungonte nga kutia.",
+    "target sentence": "Lapsi i kuq mungonte nga kutia.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 23,
+    "source sentence": "Pema lartë zgjati hijen e saj.",
+    "target sentence": "Pema e lartë zgjati hijen e saj.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 24,
+    "source sentence": "Partia Punës arriti të sundonte për 40 vjet.",
+    "target sentence": "Partia e Punës arriti të sundonte për 40 vjet.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 25,
+    "source sentence": "Pasuria shtetit u rrëmbye nga pushtuesit.",
+    "target sentence": "Pasuria e shtetit u rrëmbye nga pushtuesit.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 26,
+    "source sentence": "Pasuria tij u rrëmbye nga hajdutët.",
+    "target sentence": "Pasuria e tij u rrëmbye nga hajdutët.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 27,
+    "source sentence": "Ndërmarrja ndërtimit projektoi pallatin shpejt e shpejt.",
+    "target sentence": "Ndërmarrja e ndërtimit projektoi pallatin shpejt e shpejt.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 28,
+    "source sentence": "Kompania ndërtimit projektoi pallatin shpejt e shpejt.",
+    "target sentence": "Kompania e ndërtimit projektoi pallatin shpejt e shpejt.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 29,
+    "source sentence": "Kompania saj e përfundoi pallatin për dy ditë.",
+    "target sentence": "Kompania e saj e përfundoi pallatin për dy ditë.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 30,
+    "source sentence": "Detyra ditës ishte shumë e lehtë.",
+    "target sentence": "Detyra e ditës ishte shumë e lehtë.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 31,
+    "source sentence": "Te lista fituesve doli edhe ndërmarrja ndërtimit.",
+    "target sentence": "Te lista e fituesve doli edhe ndërmarrja e ndërtimit.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 32,
+    "source sentence": "Artani më parë është larguar në Shkurt drejt prindërve.",
+    "target sentence": "Artani më parë është larguar në shkurt drejt prindërve.",
+    "tag ID": 1
+  },
+  {
+    "sentence ID": 33,
+    "source sentence": "Muaji Mars është muaji i tretë.",
+    "target sentence": "Muaji mars është muaji i tretë.",
+    "tag ID": 10
+  },
+  {
+    "sentence ID": 34,
+    "source sentence": "Paguani sa të ju thotë.",
+    "target sentence": "Paguani sa t’ju thotë.",
+    "tag ID": 20
+  },
+  {
+    "sentence ID": 35,
+    "source sentence": "Dini gjë, jau ka dhënë librin atyre ai?",
+    "target sentence": "Dini gjë, ua ka dhënë librin atyre ai?",
+    "tag ID": 4
+  },
+  {
+    "sentence ID": 36,
+    "source sentence": "Unë do shkoj atje.",
+    "target sentence": "Unë do të shkoj atje.",
+    "tag ID": 3
+  },
+  {
+    "sentence ID": 37,
+    "source sentence": "I dërgova një mesazh ndërmarrjes të ndërtimit.",
+    "target sentence": "I dërgova një mesazh ndërmarrjes së ndërtimit",
+    "tag ID": 25
+  },
+  {
+    "sentence ID": 38,
+    "source sentence": "A t'a dha librin dje?",
+    "target sentence": "A ta dha librin dje?",
+    "tag ID": 17
+  },
+  {
+    "sentence ID": 39,
+    "source sentence": "U kthyen tri nga ata.",
+    "target sentence": "U kthyen tre nga ata.",
+    "tag ID": 29
+  },
+  {
+    "sentence ID": 40,
+    "source sentence": "Ata jane merzitur me neve.",
+    "target sentence": "Ata jane mërzitur me ne.",
+    "tag ID": 27
+  },
+  {
+    "sentence ID": 41,
+    "source sentence": "Nga shkolla jeme jemi disa veta.",
+    "target sentence": "Nga shkolla ime jemi disa veta.",
+    "tag ID": 31
+  },
+  {
+    "sentence ID": 42,
+    "source sentence": "Mendimi jem është të luftojmë!",
+    "target sentence": "Mendimi im është të luftojmë!",
+    "tag ID": 44
+  },
+  {
+    "sentence ID": 43,
+    "source sentence": "Qyteti tonë ka shumë pyje.",
+    "target sentence": "Qyteti ynë ka shumë pyje.",
+    "tag ID": 45
+  },
+  {
+    "sentence ID": 44,
+    "source sentence": "Qyteti jonë ka shumë pyje.",
+    "target sentence": "Qyteti ynë ka shumë pyje.",
+    "tag ID": 45
+  },
+  {
+    "sentence ID": 45,
+    "source sentence": "Qyteti ton ka shumë pyje.",
+    "target sentence": "Qyteti ynë ka shumë pyje.",
+    "tag ID": 45
+  },
+  {
+    "sentence ID": 46,
+    "source sentence": "Na duhen disa fleta për sot në darkë.",
+    "target sentence": "Na duhen disa fletë për sot në darkë.",
+    "tag ID": 64
+  },
+  {
+    "sentence ID": 47,
+    "source sentence": "I gjetëm te shkruara në disa fletë.",
+    "target sentence": "I gjetëm të shkruara në disa fletë.",
+    "tag ID": 64
+  },
+  {
+    "sentence ID": 48,
+    "source sentence": "Bli disa fletore me kutia.",
+    "target sentence": "Bli disa fletore me kuti.",
+    "tag ID": 64
+  },
+  {
+    "sentence ID": 49,
+    "source sentence": "Duhet t’a kishe marrë në telefon.",
+    "target sentence": "Duhet ta kishe marrë në telefon.",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 50,
+    "source sentence": "Duhet t’a kisha marrë në telefon.",
+    "target sentence": "Duhet ta kisha marrë në telefon.",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 51,
+    "source sentence": "Duhet t’a kisha marrë telefonin.",
+    "target sentence": "Duhet ta kisha marrë telefonin.",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 52,
+    "source sentence": "Kompjuteri tij kishte probleme.",
+    "target sentence": "Kompjuteri i tij kishte probleme.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 53,
+    "source sentence": "Telefoni tij po ndizej e fikej pa kuptim.",
+    "target sentence": "Telefoni i tij po ndizej e fikej pa kuptim.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 54,
+    "source sentence": "Filmi tij po shfaqet në Itali.",
+    "target sentence": "Filmi i tij po shfaqet në Itali.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 55,
+    "source sentence": "Trupi saj po dekompozohej dhe hetuesit patën probleme ta identifikonin.",
+    "target sentence": "Trupi i saj po dekompozohej dhe hetuesit patën probleme ta identifikonin.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 56,
+    "source sentence": "Trupi i saj po dekompozohej dhe hetuesit patën probleme t'a identifikonin.",
+    "target sentence": "Trupi i saj po dekompozohej dhe hetuesit patën probleme ta identifikonin.",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 57,
+    "source sentence": "Duhet t'a kishe ndalur.",
+    "target sentence": "Duhet ta kishe ndalur.",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 58,
+    "source sentence": "Duhet t'a kishe shkruar emrin qartë.",
+    "target sentence": "Duhet ta kishe shkruar emrin qartë.",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 59,
+    "source sentence": "Bluza tij kishte disa vrima.",
+    "target sentence": "Bluza e tij kishte disa vrima.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 60,
+    "source sentence": "Shkolla tij shpërtheu në flakë, duke vrarë disa fëmijë.",
+    "target sentence": "Shkolla e tij shpërtheu në flakë, duke vrarë disa fëmijë.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 61,
+    "source sentence": "Filmat tij po ndalohen në disa shtete.",
+    "target sentence": "Filmat e tij po ndalohen në disa shtete.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 62,
+    "source sentence": "Kufjet tij ishin shumë të shtrenjta dhe nuk e di pse i kishte blerë.",
+    "target sentence": "Kufjet e tij ishin shumë të shtrenjta dhe nuk e di pse i kishte blerë.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 63,
+    "source sentence": "Kompania tij refuzoi t'i paguante rrogën.",
+    "target sentence": "Kompania e tij refuzoi t'i paguante rrogën.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 64,
+    "source sentence": "Kostumi tij tërhoqi vëmendjen e gjithë restorantit.",
+    "target sentence": "Kostumi i tij tërhoqi vëmendjen e gjithë restorantit.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 65,
+    "source sentence": "Nuk duhet t'i kishe besuar mesazhit tij.",
+    "target sentence": "Nuk duhet t'i kishe besuar mesazhit të tij.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 66,
+    "source sentence": "Kafka tij kishte një ngjyrë...ndryshe.",
+    "target sentence": "Kafka e tij kishte një ngjyrë...ndryshe.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 67,
+    "source sentence": "Maska tij ishte e zezë dhe të kallte datën.",
+    "target sentence": "Maska e tij ishte e zezë dhe të kallte datën.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 68,
+    "source sentence": "Maska tij ishte e zezë dhe të kallte datën",
+    "target sentence": "Maska e tij ishte e zezë dhe të kallte datën",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 69,
+    "source sentence": "Duhet t'ia kishim lënë te tavolina tij.",
+    "target sentence": "Duhet t'ia kishim lënë te tavolina e tij.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 70,
+    "source sentence": "Era tij e gojës ishte...e fortë.",
+    "target sentence": "Era e tij e gojës ishte...e fortë.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 71,
+    "source sentence": "Parfumi tij më kishte ngelur në mendje.",
+    "target sentence": "Parfumi i tij më kishte ngelur në mendje.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 72,
+    "source sentence": "Kështjella tij është e fortifikuar dhe ruhet nga një dragua.",
+    "target sentence": "Kështjella e tij është e fortifikuar dhe ruhet nga një dragua.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 73,
+    "source sentence": "Duhet kaluar nga shtëpia tij më vonë.",
+    "target sentence": "Duhet kaluar nga shtëpia e tij më vonë.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 74,
+    "source sentence": "Theksi tij nuk dallohej nga ai i vendasve.",
+    "target sentence": "Theksi i tij nuk dallohej nga ai i vendasve.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 75,
+    "source sentence": "Atletet tij kishin disa njolla.",
+    "target sentence": "Atletet e tij kishin disa njolla.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 76,
+    "source sentence": "Promovimi i librit tij nuk shkoi mirë.",
+    "target sentence": "Promovimi i librit të tij nuk shkoi mir.ë",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 77,
+    "source sentence": "Promovimi librit të tij nuk shkoi mirë.",
+    "target sentence": "Promovimi i librit të tij nuk shkoi mirë.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 78,
+    "source sentence": "Sot nuk i kishte vendosur syzet tij.",
+    "target sentence": "Sot nuk i kishte vendosur syzet e tij.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 79,
+    "source sentence": "Duhet të shkojmë drejt shtëpisë saj!",
+    "target sentence": "Duhet të shkojmë drejt shtëpisë së saj!",
+    "tag ID": 10
+  },
+  {
+    "sentence ID": 80,
+    "source sentence": "Sytë tij janë blu me një hije të zeze.",
+    "target sentence": "Sytë e tij janë blu me një hije të zeze.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 81,
+    "source sentence": "Ora tij ishte Omega, por jo e vërtetë.",
+    "target sentence": "Ora e tij ishte Omega, por jo e vërtetë.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 82,
+    "source sentence": "Ajo po e priste para punës tij.",
+    "target sentence": "Ajo po e priste para punës së tij.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 83,
+    "source sentence": "Ajo ktheu makinën tij në një gjendje të mjerueshme.",
+    "target sentence": "Ajo ktheu makinën e tij në një gjendje të mjerueshme.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 84,
+    "source sentence": "Ekrani tij kishte shumë të gërvishtura.",
+    "target sentence": "Ekrani i tij kishte shumë të gërvishtura.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 85,
+    "source sentence": "Kurora tij ishte plot me gjak,",
+    "target sentence": "Kurora e tij ishte plot me gjak,",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 86,
+    "source sentence": "Syzet tij ishin plot me gjak,",
+    "target sentence": "Syzet e tij ishin plot me gjak,",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 87,
+    "source sentence": "Dyshemeja tij ishte e paqëndrueshme.",
+    "target sentence": "Dyshemeja e tij ishte e paqëndrueshme.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 88,
+    "source sentence": "Do të na duhet të përballemi me valën e saj parë.",
+    "target sentence": "Do të na duhet të përballemi me valën e saj të parë.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 89,
+    "source sentence": "Duart tij ishin të ashpra, plot vraga.",
+    "target sentence": "Duart e tij ishin të ashpra, plot vraga.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 90,
+    "source sentence": "Ishte e vështirë t'ia dilnim valës parë.",
+    "target sentence": "Ishte e vështirë t'ia dilnim valës së parë.",
+    "tag ID": 10
+  },
+  {
+    "sentence ID": 91,
+    "source sentence": "Tavolina tij ishte e bardhë.",
+    "target sentence": "Tavolina e tij ishte e bardhë.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 92,
+    "source sentence": "Shumë ushtarë vdiqën si pasojë e sulmit tij.",
+    "target sentence": "Shumë ushtarë vdiqën si pasojë e sulmit të tij.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 93,
+    "source sentence": "Projekti i shtëpisë tij kishte disa probleme.",
+    "target sentence": "Projekti i shtëpisë së tij kishte disa probleme.",
+    "tag ID": 10
+  },
+  {
+    "sentence ID": 94,
+    "source sentence": "Dyert e zyrës tij ishin kafe, me një nuancë në portokalli.",
+    "target sentence": "Dyert e zyrës së tij ishin kafe, me një nuancë në portokalli.",
+    "tag ID": 10
+  },
+  {
+    "sentence ID": 95,
+    "source sentence": "Ushtarët e Ukrainës kanë disa muaj që luftojnë për shtetin tyre.",
+    "target sentence": "Ushtarët e Ukrainës kanë disa muaj që luftojnë për shtetin e tyre.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 96,
+    "source sentence": "Ushtarët e Rusisë nuk i binden më gjeneralëve tyre.",
+    "target sentence": "Ushtarët e Rusisë nuk i binden më gjeneralëve të tyre.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 97,
+    "source sentence": "Ushtarët Rusisë nuk i binden më gjeneralëve të tyre.",
+    "target sentence": "Ushtarët e Rusisë nuk i binden më gjeneralëve të tyre.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 98,
+    "source sentence": "Lapsi tij ishte thyer më dysh.",
+    "target sentence": "Lapsi i tij ishte thyer më dysh.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 99,
+    "source sentence": "Kapelja tij ishte e zezë.",
+    "target sentence": "Kapelja e tij ishte e zezë.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 100,
+    "source sentence": "Veshja tij nuk ishte e përshtatshme.",
+    "target sentence": "Veshja e tij nuk ishte e përshtatshme.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 101,
+    "source sentence": "Televizori tij ishte shumë i madh",
+    "target sentence": "Televizori i tij ishte shumë i madh",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 102,
+    "source sentence": "Marrëdhënia tyre ishte plot me gunga.",
+    "target sentence": "Marrëdhënia e tyre ishte plot me gunga.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 103,
+    "source sentence": "Pija tyre kishte një ngjyrë të çuditshme.",
+    "target sentence": "Pija e tyre kishte një ngjyrë të çuditshme.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 104,
+    "source sentence": "U hutova duke parë librat tyre.",
+    "target sentence": "U hutova duke parë librat e tyre.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 105,
+    "source sentence": "Kur hyra në shtëpinë tyre, u ndjeva keq.",
+    "target sentence": "Kur hyra në shtëpinë e tyre, u ndjeva keq.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 106,
+    "source sentence": "Duke ngrënë nga tavolina tyre, pashë nga dritarja.",
+    "target sentence": "Duke ngrënë nga tavolina e tyre, pashë nga dritarja.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 107,
+    "source sentence": "Duhet t'i kishe shkruar se pamë makinën tyre.",
+    "target sentence": "Duhet t'i kishe shkruar se pamë makinën e tyre.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 108,
+    "source sentence": "Makina tyre kishte marrë një ngjyrë të gjelbërt nga myku.",
+    "target sentence": "Makina e tyre kishte marrë një ngjyrë të gjelbërt nga myku.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 109,
+    "source sentence": "Ata i kishin reshtuar shishet tyre sikur të ishin ushtarë.",
+    "target sentence": "Ata i kishin reshtuar shishet e tyre sikur të ishin ushtarë.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 110,
+    "source sentence": "Tavolinat tyre ishin të bardha e nuk të krijonin ndonjë ndjenjë të bukur.",
+    "target sentence": "Tavolinat e tyre ishin të bardha e nuk të krijonin ndonjë ndjenjë të bukur.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 111,
+    "source sentence": "Karriget tyre ishin të thyera.",
+    "target sentence": "Karriget e tyre ishin të thyera.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 112,
+    "source sentence": "Kurthi tij kishte dështuar.",
+    "target sentence": "Kurthi i tij kishte dështuar.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 113,
+    "source sentence": "Vepra tij kishte dështuar.",
+    "target sentence": "Vepra i tij kishte dështuar.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 114,
+    "source sentence": "Taktika tij kishte dështuar.",
+    "target sentence": "Taktika e tij kishte dështuar.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 115,
+    "source sentence": "Televizori tij kishte filluar të mos funksiononte mirë.",
+    "target sentence": "Televizori i tij kishte filluar të mos funksiononte mirë.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 116,
+    "source sentence": "Ata tashmë e kishin kaluar kufirin tij.",
+    "target sentence": "Ata tashmë e kishin kaluar kufirin e tij.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 117,
+    "source sentence": "Kufiri tij ishte tashmë thjesht në letër.",
+    "target sentence": "Kufiri i tij ishte tashmë thjesht në letër.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 118,
+    "source sentence": "Ku është zoti tij tani?",
+    "target sentence": "Ku është zoti i tij tani?",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 119,
+    "source sentence": "Deri ku shkon gardhi tij?",
+    "target sentence": "Deri ku shkon gardhi i tij?",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 120,
+    "source sentence": "Jastëku tij ishte shumë i butë.",
+    "target sentence": "Jastëku i tij ishte shumë i butë.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 121,
+    "source sentence": "Krevati tij bënte shumë zhurmë.",
+    "target sentence": "Krevati i tij bënte shumë zhurmë.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 122,
+    "source sentence": "Dollapi tij kishte disa ndarje.",
+    "target sentence": "Dollapi i tij kishte disa ndarje.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 123,
+    "source sentence": "Pallati tij pësoi shumë dëmtime.",
+    "target sentence": "Pallati i tij pësoi shumë dëmtime.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 124,
+    "source sentence": "Policia kishte arritur te hoteli tij.",
+    "target sentence": "Policia kishte arritur te hoteli i tij.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 125,
+    "source sentence": "Ushqimi tij erdhi shpejt, por ishte i ftohtë.",
+    "target sentence": "Ushqimi i tij erdhi shpejt, por ishte i ftohtë.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 126,
+    "source sentence": "Kapuçi tij ishte prej leshi dhe ngjyrë kafe.",
+    "target sentence": "Kapuçi i tij ishte prej leshi dhe ngjyrë kafe.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 127,
+    "source sentence": "Syri tij ishte skuqur.",
+    "target sentence": "Syri i tij ishte skuqur.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 128,
+    "source sentence": "Nuk kam fjetur fare. Qeni tij ka lehur gjatë gjithë natës.",
+    "target sentence": "Nuk kam fjetur fare. Qeni i tij ka lehur gjatë gjithë natës.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 129,
+    "source sentence": "Kali tij arriti të fitonte!",
+    "target sentence": "Kali i tij arriti të fitonte!",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 130,
+    "source sentence": "Kompjuteri tij u dogj gjatë natës për shkak të një problemi elektrik.",
+    "target sentence": "Kompjuteri i tij u dogj gjatë natës për shkak të një problemi elektrik.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 131,
+    "source sentence": "Elektriku tij i dorës filloi të nxehej.",
+    "target sentence": "Elektriku i tij i dorës filloi të nxehej.",
+    "tag ID": 7
+  },
+  {
+    "sentence ID": 132,
+    "source sentence": "Nëse fëmijët nuk u binden prindërve tyre, duhet të ndëshkohen.",
+    "target sentence": "Nëse fëmijët nuk u binden prindërve të tyre, duhet të ndëshkohen.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 133,
+    "source sentence": "Ai nuk po u përgjigjej thirrjeve tyre.",
+    "target sentence": "Ai nuk po u përgjigjej thirrjeve të tyre.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 134,
+    "source sentence": "Nuk pati asnjë reagim ndaj apelit tyre.",
+    "target sentence": "Nuk pati asnjë reagim ndaj apelit të tyre.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 135,
+    "source sentence": "Asnjë shqiptar nuk u tremb nga ulërimet tyre.",
+    "target sentence": "Asnjë shqiptar nuk u tremb nga ulërimet e tyre.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 136,
+    "source sentence": "Shtëpive tyre nuk u kishte ndodhur gjë.",
+    "target sentence": "Shtëpive të tyre nuk u kishte ndodhur gjë.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 137,
+    "source sentence": "Oborreve tyre nuk u kishte ndodhur gjë.",
+    "target sentence": "Oborreve të tyre nuk u kishte ndodhur gjë.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 138,
+    "source sentence": "Gotave tyre u kishin hedhur helm.",
+    "target sentence": "Gotave të tyre u kishin hedhur helm.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 139,
+    "source sentence": "Kompjuterave tyre u ishte fshirë memoria.",
+    "target sentence": "Kompjuterave të tyre u ishte fshirë memoria.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 140,
+    "source sentence": "Ushtarët nuk i po shihnin më armiqte tyre.",
+    "target sentence": "Ushtarët nuk i po shihnin më armiqte e tyre.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 141,
+    "source sentence": "Filmave tyre u mungonte mundësia për tu shfaqur dhe kaq.",
+    "target sentence": "Filmave të tyre u mungonte mundësia për tu shfaqur dhe kaq.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 142,
+    "source sentence": "Filmave tyre u mungonte mundësia për tu shfaqur dhe kaq.",
+    "target sentence": "Filmave të tyre u mungonte mundësia për tu shfaqur dhe kaq.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 143,
+    "source sentence": "Ai kishte shumë komente kundrejt diplomave tyre.",
+    "target sentence": "Ai kishte shumë komente kundrejt diplomave të tyre.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 144,
+    "source sentence": "Ka pasur shumë kritika ndaj veprave tyre.",
+    "target sentence": "Ka pasur shumë kritika ndaj veprave të tyre.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 145,
+    "source sentence": "Ka pasur shumë kritika ndaj muzikës tyre.",
+    "target sentence": "Ka pasur shumë kritika ndaj muzikës së tyre.",
+    "tag ID": 10
+  },
+  {
+    "sentence ID": 146,
+    "source sentence": "Ata u sulmuan për shkak të qëndrimeve tyre radikale.",
+    "target sentence": "Ata u sulmuan për shkak të qëndrimeve të tyre radikale.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 147,
+    "source sentence": "Ata u sulmuan për shkak të mendimeve tyre radikale.",
+    "target sentence": "Ata u sulmuan për shkak të mendimeve të tyre radikale.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 148,
+    "source sentence": "Ata u sulmuan për shkak të fjalëve tyre radikale.",
+    "target sentence": "Ata u sulmuan për shkak të fjalëve të tyre radikale.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 149,
+    "source sentence": "Ata u sulmuan për shkak të shprehjeve tyre radikale.",
+    "target sentence": "Ata u sulmuan për shkak të shprehjeve të tyre radikale.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 150,
+    "source sentence": "Ata u lavdëruan për fjalët tyre mbështetëse.",
+    "target sentence": "Ata u lavdëruan për fjalët e tyre mbështetëse.",
+    "tag ID": 8
+  },
+  {
+    "sentence ID": 151,
+    "source sentence": "Ato admiroheshin si pasojë e veprimeve tyre progresive.",
+    "target sentence": "Ato admiroheshin si pasojë e veprimeve të tyre progresive.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 152,
+    "source sentence": "Ato admiroheshin si pasojë e qëndrimeve tyre progresive.",
+    "target sentence": "Ato admiroheshin si pasojë e qëndrimeve të tyre progresive.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 153,
+    "source sentence": "Ato sulmoheshin vazhdimisht si pasojë e qëndrimeve tyre problematike.",
+    "target sentence": "Ato sulmoheshin vazhdimisht si pasojë e mendimeve të tyre problematike.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 154,
+    "source sentence": "Njerëzit ishin lodhur si pasojë e protestave tyre pa qëllim.",
+    "target sentence": "Njerëzit ishin lodhur si pasojë e protestave të tyre pa qëllim.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 155,
+    "source sentence": "Pas lëvizjeve tyre nëpër qytet, u ulën në një lokal.",
+    "target sentence": "Pas lëvizjeve të tyre nëpër qytet, u ulën në një lokal.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 156,
+    "source sentence": "Pas kërkimeve tyre nëpër fshat, u ulën në një lokal.",
+    "target sentence": "Pas kërkimeve të tyre nëpër fshat, u ulën në një lokal.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 157,
+    "source sentence": "Nuk ishte shumë i lumtur pas lajmeve tyre.",
+    "target sentence": "Nuk ishte shumë i lumtur pas lajmeve të tyre.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 158,
+    "source sentence": "Nuk ishte shumë i lumtur pas njoftimeve tyre.",
+    "target sentence": "Nuk ishte shumë i lumtur pas njoftimeve të tyre.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 159,
+    "source sentence": "Nuk ishte shumë i lumtur pas diskutimeve tyre.",
+    "target sentence": "Nuk ishte shumë i lumtur pas diskutimeve të tyre.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 160,
+    "source sentence": "Pas bisedave tyre dukej sikur nga momenti në moment do të ndoshte hataja.",
+    "target sentence": "Pas bisedave të tyre dukej sikur nga momenti në moment do të ndoshte hataja.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 161,
+    "source sentence": "Pas fjalës tij në sallë ra qetësia.",
+    "target sentence": "Pas fjalës së tij në sallë ra qetësia.",
+    "tag ID": 10
+  },
+  {
+    "sentence ID": 162,
+    "source sentence": "Pas fjalimit tij në sallë ra qetësia.",
+    "target sentence": "Pas fjalimit të tij në sallë ra qetësia.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 163,
+    "source sentence": "Pas gjestit tij në sallë plasi zhurma.",
+    "target sentence": "Pas gjestit të tij në sallë plasi zhurma.",
+    "tag ID": 9
+  },
+  {
+    "sentence ID": 164,
+    "source sentence": "Çfarë nuk i kishin bërë bluzës tij...",
+    "target sentence": "Çfarë nuk i kishin bërë bluzës së tij...",
+    "tag ID": 10
+  },
+  {
+    "sentence ID": 165,
+    "source sentence": "Çfarë nuk i kishin bërë makinës tij...",
+    "target sentence": "Çfarë nuk i kishin bërë makinës së tij...",
+    "tag ID": 10
+  },
+  {
+    "sentence ID": 166,
+    "source sentence": "Çfarë nuk i kishin bërë xhaketës tij...",
+    "target sentence": "Çfarë nuk i kishin bërë xhaketës së tij...",
+    "tag ID": 10
+  },
+  {
+    "sentence ID": 167,
+    "source sentence": "Çfarë nuk i kishin bërë shtëpisë tij...",
+    "target sentence": "Çfarë nuk i kishin bërë shtëpisë së tij...",
+    "tag ID": 10
+  },
+  {
+    "sentence ID": 168,
+    "source sentence": "Çfarë nuk i kishin bërë pikturës tij...",
+    "target sentence": "Çfarë nuk i kishin bërë pikturës së tij...",
+    "tag ID": 10
+  },
+  {
+    "sentence ID": 169,
+    "source sentence": "Në krahasim me vitin e kaluar, mund t'i kishe shtuar shumë gjëra temës saj.",
+    "target sentence": "Në krahasim me vitin e kaluar, mund t'i kishe shtuar shumë gjëra temës së saj.",
+    "tag ID": 10
+  },
+  {
+    "sentence ID": 170,
+    "source sentence": "Ky Janari më duket shumë i gjatë!",
+    "target sentence": "Ky janari më duket shumë i gjatë!",
+    "tag ID": 3
+  },
+  {
+    "sentence ID": 171,
+    "source sentence": "Muaji Shkurt do të jetë i mbushur me dhurata.",
+    "target sentence": "Muaji shkurt do të jetë i mbushur me dhurata.",
+    "tag ID": 3
+  },
+  {
+    "sentence ID": 172,
+    "source sentence": "Ai e ka ditëlindjen në Mars.",
+    "target sentence": "Ai e ka ditëlindjen në mars.",
+    "tag ID": 3
+  },
+  {
+    "sentence ID": 173,
+    "source sentence": "Në Prill do të kemi disa festa.",
+    "target sentence": "Në prill do të kemi disa festa.",
+    "tag ID": 3
+  },
+  {
+    "sentence ID": 174,
+    "source sentence": "Unë kam ditëlindjen në Maj, më 26 Maj.",
+    "target sentence": "Unë kam ditëlindjen në maj, më 26 maj.",
+    "tag ID": 3
+  },
+  {
+    "sentence ID": 175,
+    "source sentence": "Kur ju nisin pushimet, në Qershor?",
+    "target sentence": "Kur ju nisin pushimet, në qershor?",
+    "tag ID": 3
+  },
+  {
+    "sentence ID": 176,
+    "source sentence": "Në Korrik, temperaturat do të rriten shumë.",
+    "target sentence": "Në korrik, temperaturat do të rriten shumë.",
+    "tag ID": 3
+  },
+  {
+    "sentence ID": 177,
+    "source sentence": "Besoj se do të jem me pushime në Gusht.",
+    "target sentence": "Besoj se do të jem me pushime në gusht.",
+    "tag ID": 3
+  },
+  {
+    "sentence ID": 178,
+    "source sentence": "Nxënësit do të kthehen në shkolla më 6 Shtator.",
+    "target sentence": "Nxënësit do të kthehen në shkolla më 6 shtator.",
+    "tag ID": 3
+  },
+  {
+    "sentence ID": 179,
+    "source sentence": "Nxënësit do të kthehen në shkolla më 6 Shtator.",
+    "target sentence": "Nxënësit do të kthehen në shkolla më 6 shtator.",
+    "tag ID": 3
+  },
+  {
+    "sentence ID": 180,
+    "source sentence": "Në Tetor do të organizohet një festë në Kashar.",
+    "target sentence": "Në tetor do të organizohet një festë në Kashar.",
+    "tag ID": 3
+  },
+  {
+    "sentence ID": 181,
+    "source sentence": "Kemi shumë pushime në Nëntor, duke filluar nga pushimet kombëtare.",
+    "target sentence": "Kemi shumë pushime në nëntor, duke filluar nga pushimet kombëtare.",
+    "tag ID": 3
+  },
+  {
+    "sentence ID": 182,
+    "source sentence": "Do të vish për festat e Dhjetorit?",
+    "target sentence": "Do të vish për festat e dhjetorit?",
+    "tag ID": 3
+  },
+  {
+    "sentence ID": 183,
+    "source sentence": "T'a bësh tani!",
+    "target sentence": "Ta bësh tani!",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 184,
+    "source sentence": "T'a kesh parasysh për herës tjetër.",
+    "target sentence": "Ta kesh parasysh për herës tjetër.",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 185,
+    "source sentence": "Qëllimi është t'a fitosh.",
+    "target sentence": "Qëllimi është ta fitosh.",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 186,
+    "source sentence": "Qëllimi është t'a kalosh.",
+    "target sentence": "Qëllimi është ta kalosh.",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 187,
+    "source sentence": "Veprimi i saktë do të kishte qenë t'a ndihmoje.",
+    "target sentence": "Veprimi i saktë do të kishte qenë ta ndihmoje.",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 188,
+    "source sentence": "T'a shikojë njëherë se nuk i dihet.",
+    "target sentence": "T'a shikojë njëherë se nuk i dihet.",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 189,
+    "source sentence": "Duhet t'a bëjë sa më shpejt!",
+    "target sentence": "Duhet ta bëjë sa më shpejt!",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 190,
+    "source sentence": "Duhet t'a shikojë sa më shpejt!",
+    "target sentence": "Duhet ta shikojë sa më shpejt!",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 191,
+    "source sentence": "Duhet t'a kontrollojë sa më shpejt!",
+    "target sentence": "Duhet ta kontrollojë sa më shpejt!",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 192,
+    "source sentence": "Duhet t'a pastrojë sa më shpejt!",
+    "target sentence": "Duhet ta pastrojë sa më shpejt!",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 193,
+    "source sentence": "Duhet t'a mësojë sa më shpejt!",
+    "target sentence": "Duhet ta mësojë sa më shpejt!",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 194,
+    "source sentence": "Duhet t'a mbarojë sa më shpejt!",
+    "target sentence": "Duhet ta mbarojë sa më shpejt!",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 195,
+    "source sentence": "Duhet t'a mbarojë sot!",
+    "target sentence": "Duhet ta mbarojë sa sot!",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 196,
+    "source sentence": "T'a mbarosh sot, sepse nuk kemi kohë!",
+    "target sentence": "Ta mbarosh sot, sepse nuk kemi kohë!",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 197,
+    "source sentence": "T'a kishte kryer, nuk ka më kohë!",
+    "target sentence": "Ta kishte kryer, nuk ka më kohë!",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 198,
+    "source sentence": "T'a kishte mbaruar, nuk ka më kohë!",
+    "target sentence": "Ta kishte mbaruar, nuk ka më kohë!",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 199,
+    "source sentence": "T'a kishe mbaruar, nuk ka më kohë!",
+    "target sentence": "Ta kishe mbaruar, nuk ka më kohë!",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 200,
+    "source sentence": "Kanë kaluar disa ditë, duhet t'a ketë mbaruar deri tani.",
+    "target sentence": "Kanë kaluar disa ditë, duhet ta ketë mbaruar deri tani.",
+    "tag ID": 19
+  },
+  {
+    "sentence ID": 201,
+    "source sentence": "Do ketë arritur tani.",
+    "target sentence": "Do të ketë arritur tani.",
+    "tag ID": 3
+  }
+]
